@@ -11,6 +11,8 @@ I'm Sakthivel, a Computer Science student at Mepco Schlenk Engineering College p
 ![](https://github-readme-stats.vercel.app/api?username=Sakthivel0408&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sakthivel0408&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthivel0408&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakthivel0408&theme=gruvbox)](https://github.com/Sakthivel0408/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sakthivel0408&icon=0&color=0)](https://visitcount.itsvg.in)
